@@ -76,7 +76,7 @@ export const projects: Project[] = [
     developmentProcess: "Projeto desenvolvido durante estágio, seguindo metodologias ágeis com sprints semanais e reuniões diárias. Trabalhei com uma equipe multidisciplinar para entregar um sistema completo.",
     image: educafacilImg,
     screenshots: [],
-    demoUrl: "https://educafacil-br.vercel.app/auth",
+    demoUrl: "https://educafacil-br.vercel.app/",
     githubUrl: "https://github.com/UchoaBreno/educafacil-estagio",
     featured: true
   },
